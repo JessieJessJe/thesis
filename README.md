@@ -31,6 +31,12 @@ How do communities in NYC are preserving their heritage through commemorative st
 
 **Conclusion**
 
+## Design
+
+Previous Version [click to the demo](https://jessiejessje.github.io/nyc-street-conaming/)
+
+Design v1 [link](https://github.com/JessieJessJe/thesis/blob/main/design_01.pdf)
+
 ## Bibliography
 
   
